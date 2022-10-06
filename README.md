@@ -13,4 +13,4 @@ Test.py:
 
 User.py:
 - returns a graphic interfarce that interact with the user as answer to an http request by showing the results and error messages with a specific error format.
-- 
+
